@@ -1,8 +1,8 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
     "title": "get-configuration output",
-    "$id": "http://schema.nethserver.org/kickstart/get-configuration-output.json",
-    "description": "Get kickstart configuration",
+    "$id": "http://schema.nethserver.org/module-update/get-configuration-output.json",
+    "description": "Get module-update configuration",
     "examples": [],
     "type": "object"
 }
